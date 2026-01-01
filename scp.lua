@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("2월달 복귀예정")
+game.Players.LocalPlayer:Kick("망함 GG")
